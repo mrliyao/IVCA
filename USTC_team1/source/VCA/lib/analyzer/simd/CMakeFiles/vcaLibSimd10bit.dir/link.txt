@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvcaLibSimd10bit.a CMakeFiles/vcaLibSimd10bit.dir/dct8.asm.o CMakeFiles/vcaLibSimd10bit.dir/const-a.asm.o CMakeFiles/vcaLibSimd10bit.dir/cpu-a.asm.o CMakeFiles/vcaLibSimd10bit.dir/dct-ssse3.cpp.o
+/usr/bin/ranlib libvcaLibSimd10bit.a

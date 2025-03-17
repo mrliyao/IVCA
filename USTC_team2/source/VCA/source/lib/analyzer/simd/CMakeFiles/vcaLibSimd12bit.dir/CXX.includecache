@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/Projects/x264/VCA-linux/source/lib/analyzer/simd/dct-ssse3.cpp
+stdint.h
+-
+pmmintrin.h
+-
+tmmintrin.h
+-
+xmmintrin.h
+-
+

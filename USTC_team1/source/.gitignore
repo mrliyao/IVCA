@@ -1,0 +1,6 @@
+*test/
+_test/
+*.zip
+
+build
+.vscode

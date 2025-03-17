@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvcaLib.a CMakeFiles/vcaLib.dir/vcaLib.cpp.o
+/usr/bin/ranlib libvcaLib.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvcaInternal.a CMakeFiles/vcaInternal.dir/Analyzer.cpp.o CMakeFiles/vcaInternal.dir/DCTTransform.cpp.o CMakeFiles/vcaInternal.dir/DCTTransformsNative.cpp.o CMakeFiles/vcaInternal.dir/EnergyCalculation.cpp.o CMakeFiles/vcaInternal.dir/MultiThreadQueue.cpp.o CMakeFiles/vcaInternal.dir/ProcessingThread.cpp.o CMakeFiles/vcaInternal.dir/ShotDetection.cpp.o CMakeFiles/vcaInternal.dir/simd/cpu.cpp.o
+/usr/bin/ranlib libvcaInternal.a
